@@ -1,0 +1,13 @@
+.section-one{
+    height: 200px;
+    width: 600px;
+    outline: solid;
+}
+
+.section-two {
+    height: 200px;
+    width: 600px;
+    border: 1px solid red;
+    outline: 3px dotted green;
+    margin-top: 20px;
+}
